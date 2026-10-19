@@ -1,0 +1,6 @@
+{
+  "name": "STIENAS LMS",
+  "description": "Aplikasi LMS STIENAS Banjarmasin dengan integrasi Firebase Firestore real-time, obrolan dosen-mahasiswa, notifikasi, dan mode gelap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
